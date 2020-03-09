@@ -1,8 +1,8 @@
 # StockPriceNews
 
-This project is predicting stock price increase or not only by news headlines.
+This project is predicting stock price shifts only by news headlines.
 
-Data.csv(Dataset) is the world news and Dow Jones Industrial Average(DJIA) stock price shifts dataset on Kaggle.
+Data.csv(Dataset) is the World News and Dow Jones Industrial Average(DJIA) stock price shifts dataset on Kaggle.
 
 samsung_news__.csv(Dataset) is news from Naver(the biggest website in South Korea) and Samsung stock price shifts dataset.
 
